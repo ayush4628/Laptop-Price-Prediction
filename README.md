@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 #  4. Run the Flask app  
 ```bash
-python app.py
+streamlit run app.py
 ```
 # 5. Open in browser or Postman  
 Visit: http://localhost:5000/  
